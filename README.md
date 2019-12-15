@@ -20,7 +20,7 @@ PCA is predominantly used as a dimensionality reduction technique in domains lik
 
 # Post-Processing
 The data has to be split in a 80:20 ratio for training and validation datasets.
-And,I case of training I have used ANN Multi-Layer Perceptron.
+And,In case of training I have used ANN Multi-Layer Perceptron.
 Artificial Neural Networks (ANN) are multi-layer fully-connected neural nets that look like the figure below. They consist of an input layer, multiple hidden layers, and an output layer. Every node in one layer is connected to every other node in the next layer. We make the network deeper by increasing the number of hidden layers.
 
 
